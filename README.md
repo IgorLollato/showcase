@@ -1,2 +1,2 @@
-# showcase
+# showcase-ai
 
